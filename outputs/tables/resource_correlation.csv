@@ -1,0 +1,4 @@
+﻿energy_type,resource_variable,correlation_with_utilization_hours
+光伏,solar_radiation_kwh_m2,0.8980452551331619
+风电,wind_speed_m_s,0.9509628682316515
+水电,precipitation_mm,0.9524136722137814
